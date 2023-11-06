@@ -1,0 +1,20 @@
+.content p {
+    font-size: 1.2em; /* Збільшення розміру тексту на 1.2 ем */
+}
+
+.content p {
+    text-indent: 2em; /* Відступ першого рядка підзаголовка */
+}
+
+.content p strong {
+    font-weight: bold; /* Надання жирного шрифта для елементів, що виписані у <strong> */
+}
+
+.content p:first-of-type {
+    margin-top: 0; /* Видалення верхнього відступу для першого параграфу */
+}
+
+.content p:not(:first-of-type) {
+    margin-top: 1em; /* Встановлення відступу зверху для всіх інших параграфів */
+}
+
