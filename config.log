@@ -1,0 +1,33 @@
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	diff.astextplain.textconv=astextplain
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	filter.lfs.clean=git-lfs clean -- %f
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	filter.lfs.smudge=git-lfs smudge -- %f
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	filter.lfs.process=git-lfs filter-process
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	filter.lfs.required=true
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	http.sslbackend=openssl
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	http.sslcainfo=E:/Навчання/Word документи/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	core.autocrlf=true
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	core.fscache=true
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	core.symlinks=false
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	pull.rebase=false
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	credential.helper=manager
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	credential.https://dev.azure.com.usehttppath=true
+file:"E:/\320\235\320\260\320\262\321\207\320\260\320\275\320\275\321\217/Word \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202\320\270/Git/etc/gitconfig"	init.defaultbranch=master
+file:C:/Users/Administrator/.gitconfig	user.name=Yaroslav Tarnavskyi
+file:C:/Users/Administrator/.gitconfig	user.email=tarnavskiy098@gmail.com
+file:C:/Users/Administrator/.gitconfig	alias.logo=log --oneline
+file:C:/Users/Administrator/.gitconfig	alias.logf=log --format=full
+file:C:/Users/Administrator/.gitconfig	alias.mylog=log --pretty=format:'%h, %an, %ae : %s'
+file:C:/Users/Administrator/.gitconfig	alias.log-search-code=log -S
+file:C:/Users/Administrator/.gitconfig	alias.log-search-message=log --grep
+file:C:/Users/Administrator/.gitconfig	alias.logg=log --graph
+file:C:/Users/Administrator/.gitconfig	alias.loglast=log -1
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=git@github.com:ytarnavskyi04/hello-world.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
